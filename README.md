@@ -1,6 +1,6 @@
 # README #
-![ ](/img1.png)
-![ ](/img2.png)
+![ ](/img1.PNG)
+![ ](/img2.PNG)
 ### What is this repository for? ###
 
 ### You should wait few second for the Face Detect add-on to recognize your face
