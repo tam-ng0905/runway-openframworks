@@ -1,9 +1,6 @@
 # README #
-![ ](/Screenshot2.png)
-![ ](/Screenshot5.png)
-![ ](/Screenshot1.png)
-![ ](/Screenshot3.png)
-![ ](/1.png)
+![ ](/img1.png)
+![ ](/img2.png)
 ### What is this repository for? ###
 
 ### You should wait few second for the Face Detect add-on to recognize your face
