@@ -2,13 +2,11 @@
 ![ ](/img1.PNG)
 ![ ](/img2.PNG)
 ### What is this repository for? ###
-
 ## You have to run the DeepLab model on Runway ML by Gene Koran to use this repository ###
 
 * This is an application for a project about Coputer Vision, Machine Learning, and its aplication with the image taken from the built-in webcam for the Advanced Coding class of University of Denver.
-
-* By using the model DeepLab from Runway, the compute will extract the person, if there is any, to create lines as objects to interact with the balls created by clicking the mouse.
-* There is a audio file that will be played along with the application when it runs 
+* By using the model DeepLab from Runway, the compute will extract the person, if there is any, to create lines as objects to interact with the balls created by clicking the mouse, using the box2d addon.
+* There is a music file that will be played along when the application runs as a medium to make the file more vivid and interesting towards users.
 
 ### How do I get set up? ###
 
